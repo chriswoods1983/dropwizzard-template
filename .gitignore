@@ -1,2 +1,4 @@
-# Package Files #
-*.jar
+.idea/
+*.iml
+target/
+dependency-reduced-pom.xml
